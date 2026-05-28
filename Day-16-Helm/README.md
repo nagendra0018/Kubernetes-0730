@@ -1,4 +1,8 @@
-# Kubernetes Helm Complete Guide
+# Kubernetes Helm 
+
+<p align="center">
+  <img src="helm.png" alt="Helm Architecture" width="100%">
+</p>
 
 ## Introduction
 
